@@ -10,5 +10,6 @@ package utilidades;
  * @author Usuario
  */
 public interface CampoUnicoDAO {
-    public abstract Object getElementoPorCampoUnico(Object parametro);
+     public abstract Object getElementoPorCampoUnico1(Object parametro);
+     public abstract Object getElementoPorCampoUnico2(Object parametro);
 }
